@@ -1,2 +1,2 @@
-# 20203034kim do gyeong
+# 20203034kim  do gyeong
 # Kookmin Univ. SW
