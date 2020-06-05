@@ -1,2 +1,2 @@
 # 20203034	 kim do kyeong
-# Kookmin Univ. computerscience
+# Kookmin Univ. cs
